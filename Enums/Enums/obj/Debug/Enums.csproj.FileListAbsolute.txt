@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Enums\Enums\bin\Debug\Enums.exe
+C:\msys64\home\Matthew\github\csharp\Enums\Enums\bin\Debug\Enums.pdb
+C:\msys64\home\Matthew\github\csharp\Enums\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Enums\Enums\obj\Debug\Enums.exe
+C:\msys64\home\Matthew\github\csharp\Enums\Enums\obj\Debug\Enums.pdb
