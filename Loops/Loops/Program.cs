@@ -41,6 +41,15 @@ namespace Loops
             }
 
 
+            // For Each loop
+            Console.WriteLine("\n\nFor Each loops");
+
+            int[] arr = new int[] { 1, 2, 3, 4, 5 };    // see the Arrays program
+
+            foreach (int num in arr)
+                Console.Write(num + " ");
+     
+
             // breaking
             Console.WriteLine("\n\nBreaking in a loop");
 
