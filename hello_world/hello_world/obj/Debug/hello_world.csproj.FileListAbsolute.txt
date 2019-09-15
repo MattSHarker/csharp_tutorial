@@ -1,0 +1,12 @@
+C:\Users\Matthew\source\repos\hello_world\hello_world\bin\Debug\hello_world.exe
+C:\Users\Matthew\source\repos\hello_world\hello_world\bin\Debug\hello_world.pdb
+C:\Users\Matthew\source\repos\hello_world\hello_world\obj\Debug\hello_world.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\source\repos\hello_world\hello_world\obj\Debug\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\hello_world\hello_world\obj\Debug\hello_world.exe
+C:\Users\Matthew\source\repos\hello_world\hello_world\obj\Debug\hello_world.pdb
+C:\msys64\home\Matthew\github\csharp\hello_world\hello_world\bin\Debug\hello_world.exe
+C:\msys64\home\Matthew\github\csharp\hello_world\hello_world\bin\Debug\hello_world.pdb
+C:\msys64\home\Matthew\github\csharp\hello_world\hello_world\obj\Debug\hello_world.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\hello_world\hello_world\obj\Debug\hello_world.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\hello_world\hello_world\obj\Debug\hello_world.exe
+C:\msys64\home\Matthew\github\csharp\hello_world\hello_world\obj\Debug\hello_world.pdb
