@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Loops\Loops\bin\Debug\Loops.exe
+C:\msys64\home\Matthew\github\csharp\Loops\Loops\bin\Debug\Loops.pdb
+C:\msys64\home\Matthew\github\csharp\Loops\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Loops\Loops\obj\Debug\Loops.exe
+C:\msys64\home\Matthew\github\csharp\Loops\Loops\obj\Debug\Loops.pdb
