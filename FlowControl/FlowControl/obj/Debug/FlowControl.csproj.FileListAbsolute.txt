@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\FlowControl\FlowControl\obj\Debug\FlowControl.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\FlowControl\FlowControl\obj\Debug\FlowControl.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\FlowControl\FlowControl\bin\Debug\FlowControl.exe
+C:\msys64\home\Matthew\github\csharp\FlowControl\FlowControl\bin\Debug\FlowControl.pdb
+C:\msys64\home\Matthew\github\csharp\FlowControl\FlowControl\obj\Debug\FlowControl.exe
+C:\msys64\home\Matthew\github\csharp\FlowControl\FlowControl\obj\Debug\FlowControl.pdb
