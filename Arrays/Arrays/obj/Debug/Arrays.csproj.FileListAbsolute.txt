@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\msys64\home\Matthew\github\csharp\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\msys64\home\Matthew\github\csharp\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\msys64\home\Matthew\github\csharp\Arrays\Arrays\obj\Debug\Arrays.pdb
