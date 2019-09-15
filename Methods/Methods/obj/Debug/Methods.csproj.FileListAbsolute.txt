@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Methods\Methods\bin\Debug\Methods.exe
+C:\msys64\home\Matthew\github\csharp\Methods\Methods\bin\Debug\Methods.pdb
+C:\msys64\home\Matthew\github\csharp\Methods\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Methods\Methods\obj\Debug\Methods.exe
+C:\msys64\home\Matthew\github\csharp\Methods\Methods\obj\Debug\Methods.pdb
