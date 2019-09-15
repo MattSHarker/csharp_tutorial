@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\UserInput\UserInput\bin\Debug\UserInput.exe
+C:\msys64\home\Matthew\github\csharp\UserInput\UserInput\bin\Debug\UserInput.pdb
+C:\msys64\home\Matthew\github\csharp\UserInput\UserInput\obj\Debug\UserInput.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\UserInput\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\UserInput\UserInput\obj\Debug\UserInput.exe
+C:\msys64\home\Matthew\github\csharp\UserInput\UserInput\obj\Debug\UserInput.pdb
