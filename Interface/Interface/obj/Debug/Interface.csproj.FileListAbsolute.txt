@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Interface\Interface\bin\Debug\Interface.exe
+C:\msys64\home\Matthew\github\csharp\Interface\Interface\bin\Debug\Interface.pdb
+C:\msys64\home\Matthew\github\csharp\Interface\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Interface\Interface\obj\Debug\Interface.exe
+C:\msys64\home\Matthew\github\csharp\Interface\Interface\obj\Debug\Interface.pdb
