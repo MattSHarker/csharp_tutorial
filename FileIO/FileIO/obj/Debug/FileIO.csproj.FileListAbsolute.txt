@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\msys64\home\Matthew\github\csharp\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\msys64\home\Matthew\github\csharp\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\msys64\home\Matthew\github\csharp\FileIO\FileIO\obj\Debug\FileIO.pdb
