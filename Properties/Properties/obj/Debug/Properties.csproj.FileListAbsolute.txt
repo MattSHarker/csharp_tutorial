@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Properties\Properties\obj\Debug\Properties.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Properties\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Properties\Properties\bin\Debug\Properties.exe
+C:\msys64\home\Matthew\github\csharp\Properties\Properties\bin\Debug\Properties.pdb
+C:\msys64\home\Matthew\github\csharp\Properties\Properties\obj\Debug\Properties.exe
+C:\msys64\home\Matthew\github\csharp\Properties\Properties\obj\Debug\Properties.pdb
