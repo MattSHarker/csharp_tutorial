@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+C:\msys64\home\Matthew\github\csharp\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\msys64\home\Matthew\github\csharp\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+C:\msys64\home\Matthew\github\csharp\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb
