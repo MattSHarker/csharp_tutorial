@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Classes\Classes\bin\Debug\Classes.exe
+C:\msys64\home\Matthew\github\csharp\Classes\Classes\bin\Debug\Classes.pdb
+C:\msys64\home\Matthew\github\csharp\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Classes\Classes\obj\Debug\Classes.exe
+C:\msys64\home\Matthew\github\csharp\Classes\Classes\obj\Debug\Classes.pdb
