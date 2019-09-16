@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+C:\msys64\home\Matthew\github\csharp\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\msys64\home\Matthew\github\csharp\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+C:\msys64\home\Matthew\github\csharp\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb
