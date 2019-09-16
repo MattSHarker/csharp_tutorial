@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Structs\Structs\bin\Debug\Structs.exe
+C:\msys64\home\Matthew\github\csharp\Structs\Structs\bin\Debug\Structs.pdb
+C:\msys64\home\Matthew\github\csharp\Structs\Structs\obj\Debug\Structs.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Structs\Structs\obj\Debug\Structs.exe
+C:\msys64\home\Matthew\github\csharp\Structs\Structs\obj\Debug\Structs.pdb
