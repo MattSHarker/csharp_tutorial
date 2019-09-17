@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Events\Events\bin\Debug\Events.exe
+C:\msys64\home\Matthew\github\csharp\Events\Events\bin\Debug\Events.pdb
+C:\msys64\home\Matthew\github\csharp\Events\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Events\Events\obj\Debug\Events.exe
+C:\msys64\home\Matthew\github\csharp\Events\Events\obj\Debug\Events.pdb
