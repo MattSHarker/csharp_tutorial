@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\msys64\home\Matthew\github\csharp\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\msys64\home\Matthew\github\csharp\Indexers\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\msys64\home\Matthew\github\csharp\Indexers\Indexers\obj\Debug\Indexers.pdb
