@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\Threading\Threading\bin\Debug\Threading.exe
+C:\msys64\home\Matthew\github\csharp\Threading\Threading\bin\Debug\Threading.pdb
+C:\msys64\home\Matthew\github\csharp\Threading\Threading\obj\Debug\Threading.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\Threading\Threading\obj\Debug\Threading.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\Threading\Threading\obj\Debug\Threading.exe
+C:\msys64\home\Matthew\github\csharp\Threading\Threading\obj\Debug\Threading.pdb
