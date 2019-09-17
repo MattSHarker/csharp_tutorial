@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+C:\msys64\home\Matthew\github\csharp\OperatorOverloading\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+C:\msys64\home\Matthew\github\csharp\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+C:\msys64\home\Matthew\github\csharp\OperatorOverloading\OperatorOverloading\obj\Debug\OperatorOverloading.pdb
