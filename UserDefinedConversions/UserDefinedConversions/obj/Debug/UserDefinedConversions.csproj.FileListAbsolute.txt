@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\UserDefinedConversions\UserDefinedConversions\bin\Debug\UserDefinedConversions.exe
+C:\msys64\home\Matthew\github\csharp\UserDefinedConversions\UserDefinedConversions\bin\Debug\UserDefinedConversions.pdb
+C:\msys64\home\Matthew\github\csharp\UserDefinedConversions\UserDefinedConversions\obj\Debug\UserDefinedConversions.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\UserDefinedConversions\UserDefinedConversions\obj\Debug\UserDefinedConversions.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\UserDefinedConversions\UserDefinedConversions\obj\Debug\UserDefinedConversions.exe
+C:\msys64\home\Matthew\github\csharp\UserDefinedConversions\UserDefinedConversions\obj\Debug\UserDefinedConversions.pdb
