@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\msys64\home\Matthew\github\csharp\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\msys64\home\Matthew\github\csharp\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\msys64\home\Matthew\github\csharp\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
