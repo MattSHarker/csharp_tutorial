@@ -1,0 +1,6 @@
+C:\msys64\home\Matthew\github\csharp\RefAndOut\RefAndOut\bin\Debug\RefAndOut.exe
+C:\msys64\home\Matthew\github\csharp\RefAndOut\RefAndOut\bin\Debug\RefAndOut.pdb
+C:\msys64\home\Matthew\github\csharp\RefAndOut\RefAndOut\obj\Debug\RefAndOut.csprojAssemblyReference.cache
+C:\msys64\home\Matthew\github\csharp\RefAndOut\RefAndOut\obj\Debug\RefAndOut.csproj.CoreCompileInputs.cache
+C:\msys64\home\Matthew\github\csharp\RefAndOut\RefAndOut\obj\Debug\RefAndOut.exe
+C:\msys64\home\Matthew\github\csharp\RefAndOut\RefAndOut\obj\Debug\RefAndOut.pdb
